@@ -11746,3 +11746,3633 @@ array (
   'filesystem_initialized' => false,
 )
 
+[Sun, 27 Apr 2025 14:56:05 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:56:10 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:58:06 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:58:10 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:58:12 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:58:53 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:58:54 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:58:58 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:59:22 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 14:59:28 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:00:53 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:00:56 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:02:54 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:02:58 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:04:55 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:04:58 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:05:39 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:06:14 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:06:32 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:06:32 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:06:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:06:56 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:06:57 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:07:22 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:07:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:08:24 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:08:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:08:45 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:09:01 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:09:10 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:09:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:09:34 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:09:58 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:10:02 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:10:05 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:10:23 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:10:23 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:10:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:10:49 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:11:01 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:11:12 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:11:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:11:35 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:11:59 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:12:04 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:12:04 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:12:24 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:12:24 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:12:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:12:47 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:13:05 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:13:11 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:13:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:13:34 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:13:59 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:14:03 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:14:04 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:14:23 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:14:26 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:14:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:14:50 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:15:06 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:15:14 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:15:34 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:15:36 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:00 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:03 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:04 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:05 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:24 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:26 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:16:52 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:17:14 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:17:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:17:39 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:03 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:05 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:06 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:11 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:23 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:34 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:18:57 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:19:00 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:19:21 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:19:24 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:19:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:19:49 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:20:12 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:20:24 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:20:33 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:20:36 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:21:01 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:49:46 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:49:50 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:50:20 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:50:23 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:50:29 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:50:48 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:51:48 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:51:52 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:52:24 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:52:30 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:52:47 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:53:48 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:53:53 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:54:25 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:54:30 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 27 Apr 2025 15:54:48 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\myPersonalSites\\devGithub\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/myPersonalSites/devGithub/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
